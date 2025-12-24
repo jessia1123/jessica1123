@@ -1,5 +1,3 @@
-# hyojung-kim
-
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hyojung%20Kim&fontSize=40&fontAlign=50&fontAlignY=40)
 -->
@@ -9,26 +7,24 @@
 📍 Sungkyunkwan University, South Korea 🇰🇷  
 
 I am a **semiconductor process & device-oriented engineer** with strong interests in  
-**ALD process development, advanced memory (HBM), and device–process interaction analysis**.  
+**device–process interaction analysis, ALD process development, and advanced memory (HBM)**.  
 My background combines **electrical engineering**, **TCAD simulation**, and **hands-on device fabrication**.
 
 ---
 
 ## 🔬 Research & Project Interests
-- Semiconductor **Process Development** (ALD, Etch, Thin Films)
-- **HBM / DRAM / Advanced Memory Technologies**
 - **Device Physics & TCAD Simulation** (Sentaurus TCAD)
-- **2D Materials Devices** (MoS₂ FET, α-In₂Se₃ NVM)
+- **2D Materials Devices** (MoS₂ FET, α-In₂Se₃ FeFET)
 - **Electrostatic Chuck (ESC)** charge behavior & force analysis
 
 ---
 
 ## 🎓 Education
-- **B.S. in Electrical & Computer Engineering**  
+- **Bio-Mechatronics Engineering**  
+  Sungkyunkwan University 
+- **Double Major: B.S. in Electrical and Computer Engineering**  
   Sungkyunkwan University  
-- **Double Major: Bio-Mechatronics Engineering**  
-  Sungkyunkwan University  
-- Senior (4th–5th year)
+- Senior (5th year)
 
 ---
 
@@ -53,7 +49,6 @@ My background combines **electrical engineering**, **TCAD simulation**, and **ha
 ## 🏗️ Major Academic Projects
 - **Next-Generation Semiconductor Capstone Design**
   - Topic: *Charge transport and residual charge removal in Electrostatic Chuck for Etch process*
-  - Coulomb-type vs Johnsen–Rahbek-type ESC
   - Force measurement & discharge mechanism analysis
 - **Fire Evacuation Guide Robot**
   - Raspberry Pi + Arduino hybrid system
@@ -72,11 +67,10 @@ My background combines **electrical engineering**, **TCAD simulation**, and **ha
 </div>
 
 ### Semiconductor Process & Device
-- **ALD / PECVD / Sputtering**
+- **PECVD / Sputtering**
 - **Lithography & Lift-off**
-- **Thin Film & Interface Analysis**
+- **Interface Analysis**
 - **Process Parameter Optimization**
-- **HBM / TSV / Bonding / Underfill Understanding**
 
 ### Embedded & System
 <div>
@@ -89,7 +83,6 @@ My background combines **electrical engineering**, **TCAD simulation**, and **ha
 
 ## 🎯 Career Goal
 - **Semiconductor Process Development Engineer**
-  - ALD / Etch / Advanced Memory (HBM)
   - Process–device co-optimization
 - Interested in **Samsung Electronics / SK hynix / semiconductor equipment companies**
 
@@ -101,5 +94,5 @@ My background combines **electrical engineering**, **TCAD simulation**, and **ha
 ---
 
 ## 📫 Contact
-📧 Email: your_email@example.com  
+📧 Email: jessica1123@g.skku.edu  
 💬 Always open to research discussions and technical collaborations!
