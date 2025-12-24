@@ -89,7 +89,7 @@ My background combines **electrical engineering**, **TCAD simulation**, and **ha
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica1123&show_icons=true&theme=default)
+![GitHub stats](https://github.com/jessia1123/jessica1123/blob/main/README.md)
 
 ---
 
