@@ -88,11 +88,6 @@ My background combines **electrical engineering**, **TCAD simulation**, and **ha
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github.com/jessia1123/jessica1123/blob/main/README.md)
-
----
-
 ## 📫 Contact
 📧 Email: jessica1123@g.skku.edu  
 💬 Always open to research discussions and technical collaborations!
